@@ -8,7 +8,7 @@ https://doc.rust-lang.org/book/title-page.html
 ### 1. Guessing_game: 
        Simple game where you have to guess a number between 1 and 100.
 
-### 2. Minigrep: 
+### 2. Minigrep: (to finish)
        Command line tool to parse a file and find a string pattern.
    #### 2.1. Concepts:
       - Organizing code (Chapter 7)
@@ -17,7 +17,7 @@ https://doc.rust-lang.org/book/title-page.html
       - Using traits and lifetimes where appropriate (Chapter 10)
       - Writing tests (Chapter 11)
 
-### 3. Building a multithreaded web server:
+### 3. Building a multithreaded web server: (to do)
       Web server that says “hello” in a web browser.
 
 #### 3.1. Concepts:
